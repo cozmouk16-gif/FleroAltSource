@@ -1,0 +1,62 @@
+{
+  "name": "6A Studios",
+  "subtitle": "⚠️ 6A Studios Will Be Going Out Of Date Starting January 2nd 2019",
+  "description": "",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.sp67.flero"
+  ],
+  "apps": [
+    {
+      "name": "Flero",
+      "bundleIdentifier": "com.sp67.flero",
+      "marketplaceID": "",
+      "developerName": "SpeedyFriend67 ",
+      "subtitle": "Welcome To The Best Free GD Client!",
+      "localizedDescription": "Flero\n2.208\nmacOS  ❌\niOS✅\niPadOS✅",
+      "tintColor": "#e45c0c",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/cozmouk16-gif/FleroAltSource/releases/download/FleroAlt%26Side/Flero.ipa",
+          "size": 1000000000,
+          "version": "0.0.9 Beta",
+          "buildVersion": "",
+          "date": "2016-09-01T15:38:00+01:00",
+          "localizedDescription": "December 21st 2015\n\nNo News\n\nSeptember 1st 2016\n\nFlero Beta Has Arrived",
+          "minOSVersion": "9.0"
+        },
+        {
+          "downloadURL": "https://github.com/cozmouk16-gif/FleroAltSource/releases/download/FleroAlt%26Side/Flero.ipa",
+          "size": 128000000,
+          "version": "0.0.9",
+          "buildVersion": "",
+          "date": "2018-08-17T14:36:00+01:00",
+          "localizedDescription": "Geometry Dash\n2.99\nNot Free",
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "Flero Beta Is Being Built",
+      "identifier": "news_f1gi6nhbca",
+      "caption": "Introducing a new feature in Flero!",
+      "date": "2015-12-21T16:39",
+      "tintColor": "#6156e2",
+      "notify": true,
+      "url": "",
+      "appID": "com.sp67.flero"
+    }
+  ]
+}
