@@ -1,0 +1,96 @@
+{
+  "name": "Aerox Studios",
+  "subtitle": "6A’s Revive.",
+  "description": "App Store Source\nAltStore⚠️\nScarlet✅\nKSign❌",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://youtube.com",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Geode",
+      "bundleIdentifier": "com.geode.launcher",
+      "marketplaceID": "",
+      "developerName": "Geode SDK Team",
+      "subtitle": "Geode Has Came To iOS!",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "tintColor": "#7f738b",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.5.4/com.geode.launcher_1.5.4.ipa",
+          "size": 13200000,
+          "version": "1.5.4",
+          "buildVersion": null,
+          "date": "2026-06-23T18:10:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "A mod you are using is requesting this permission.",
+          "NSCameraUsageDescription": "A mod you are using is requesting this permission.",
+          "NSLocalNetworkUsageDescription": "This permission is needed for accessing the JIT server."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Discord",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "marketplaceID": "",
+      "developerName": "Discord Inc.",
+      "subtitle": "Discord",
+      "localizedDescription": "Discord",
+      "tintColor": "#5464f4",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://limewire.com/e477e697-2249-45de-9e2a-8894aaf24e54",
+          "size": 123000000000,
+          "version": "26.2",
+          "buildVersion": "",
+          "date": "2019-06-23T18:03:00+01:00",
+          "localizedDescription": "Discord Has Came To AltStore\n\nMarch 16th 2020",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+          "NSLocationAlwaysUsageDescription": "To enable services that require location",
+          "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+          "NSUserTrackingUsageDescription": "Allowing tracking helps us show you Quests for games you play or are interested in. You can opt out anytime in your iOS settings.",
+          "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+          "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+          "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+          "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+          "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+          "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+          "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "news_2wzl141nh2",
+      "caption": "Geode By Camila",
+      "date": "2019-06-23T19:12",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.geode.launcher"
+    }
+  ]
+}
